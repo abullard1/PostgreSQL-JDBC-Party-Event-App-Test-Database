@@ -7,5 +7,5 @@ To use this Databse download and open the "PostgreSQL Test Database" folder as a
 will be in the src folder. In the src folder there is also the postgresql-42.5.1.jar Postgresql driver. You might need to add and install the driver to the project
 by going to "File -> Project Structure -> Libraries". There you can add the postgresql-42.5.1.jar and hit apply. Before you can begin using the project though, you 
 will have to create a new empty Database using the postgreSQL pgAdmin 4 program. The databse and password can be whatever you like. If you dont want to change the
-name and password in the code though, simply name the new Database "DatabaseTestDatabase" and make it have the password "DatabaseTestPassword". The user should have the
-default name "postgres". Now you should be all set up and can start testing the database by hitting run in IntelliJ IDEA.
+name and password in the code though, simply name the new Database "DatabaseTestDatabase" and make it have the password "DatabaseTestPassword". The username should be the
+default username "postgres". Now you should be all set up and can start testing the database by hitting run in IntelliJ IDEA.
