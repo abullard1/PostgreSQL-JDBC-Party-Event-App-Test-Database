@@ -1,4 +1,4 @@
-# PostgreSQL-Party-Event-App-Test-Database
+# PostgreSQL-JDBC-Party-Event-App-Test-Database
 This is a PostgreSQL JDBC Database that I made in June 2022 as part of university coursework. The program populates, modifies and queries a mock postgreSQL database 
 surrounding an Android party/event app that I have been working on and will be releasing eventually.
 
